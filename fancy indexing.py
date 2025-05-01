@@ -1,0 +1,15 @@
+import numpy as np
+x = np.array([[1,2,9,987,455],[2,3,4,6,7]])
+#y = np.array([])
+#print(x[[[1,2,3],[3,2,5]]])
+#print(np.sort(x))
+#x.sort()
+#print(x)
+#print(np.sort(x,axis=1))
+#row=np.argsort(x,axis=0)
+#column=np.argsort(x,axis=1)
+#print(np.argsort(x))
+#print(x[row,column]) # type: ignore
+#print(np.argsort(x))
+#print(x[0:2,np.argsort(x)])
+print(np.sort(x))
